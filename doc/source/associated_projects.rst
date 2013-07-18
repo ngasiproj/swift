@@ -57,6 +57,7 @@ Alternative API
 
 * `Swift3 <https://github.com/fujita/swift3>`_ - Amazon S3 API emulation.
 * `CDMI <https://github.com/osaddon/cdmi>`_ - CDMI support
+* `Caimito <http://caimito.ngasi.com>`_ - WebDAV, Caching, and Content Management and Delivery server frontend for Openstack Swift cloud storage.
 
 
 .. _custom-logger-hooks-label:
